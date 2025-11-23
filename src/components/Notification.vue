@@ -7,7 +7,6 @@
 </template>
 
 <script setup>
-import { defineProps } from 'vue';
 import SlideBtn from '../util/SlideButton.vue';
 
 const props = defineProps({

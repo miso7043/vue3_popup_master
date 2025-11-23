@@ -9,7 +9,7 @@
 </template>
 
 <script setup>
-import { defineEmits } from 'vue';
+
 import SlideBtn from '../util/SlideButton.vue';
 
 const props = defineProps({

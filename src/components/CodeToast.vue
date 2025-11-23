@@ -17,7 +17,7 @@ const codeData = `<template>
 </template>
 
 <\script setup>
-import { ref, defineEmits, onMounted, computed } from 'vue';
+import { ref, onMounted, computed } from 'vue';
 
 const props = defineProps({
   isOpen: {

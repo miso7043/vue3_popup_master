@@ -9,7 +9,7 @@
 </template>
 
 <script setup>
-import { ref, defineEmits, onMounted, onUnmounted } from 'vue';
+import { ref, onMounted, onUnmounted } from 'vue';
 import SlideBtn from '../util/SlideButton.vue';
 
 const props = defineProps({

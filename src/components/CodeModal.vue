@@ -19,7 +19,7 @@ const codeData = `<template>
   </div>
 </template>
 <\script setup>
-import { defineProps, defineEmits, computed } from 'vue'
+import { computed } from 'vue'
 
 const props = defineProps({
   isOpen: {
